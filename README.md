@@ -1,5 +1,5 @@
 # Data-communication-using-virtual-circuit-switching
-implemented MPLS based virtual circuit switching in C
+implemented MPLS based virtual circuit switching in CPP
 # Virtual circuit switching.
 
 
